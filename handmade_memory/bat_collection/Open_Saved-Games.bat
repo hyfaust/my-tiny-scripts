@@ -1,0 +1,2 @@
+chcp 65001
+start  %USERPROFILE%\SAVEDG~1\
